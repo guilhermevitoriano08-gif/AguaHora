@@ -1,0 +1,6 @@
+{
+  "name": "AquaHora - Lembrete de Água & Meta Horária",
+  "description": "Aplicativo inteligente para calcular sua meta diária e taxa por hora de ingestão de água, com lembretes sonoros e notificações ativas.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
